@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greyhat1988
+- 👋 Hi, I’m Sunny!
 - 👀 I’m interested in Incident Response, Python scripting and Linux.
 - 🌱 I’m currently learning every possible thing of my interest mentioned.
 - 💞️ I’m looking to collaborate on small interesting projects.
